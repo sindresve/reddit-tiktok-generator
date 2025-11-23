@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## ✅ 4. Add Background Videos
 
-Inside your project, you’ll find a folder named:
+Inside your project, you’ll nned to create a folder named:
 
 ```
 videos/
